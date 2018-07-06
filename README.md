@@ -6,4 +6,4 @@
 - [Bash](#bash)
 
 ### Bash
-- [Bash Scripts](Bash.md)
+- [Bash Scripts](bash/)
