@@ -7,7 +7,9 @@
 - [Git](#git)
 
 ### Bash
-- [Bash Scripts](bash/)
+- [Execute linux command on remote server](bash/remotecommand/)
+- [Reverse A String From command line](bash/reverse-string/)
+- [Split Large file into chunks](bash/splitLargeFile/)
 
 ### Git
 - [Check Merged/Un-Merged Branch in Current Branch](git/merged-branch/)
