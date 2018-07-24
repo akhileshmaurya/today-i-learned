@@ -13,3 +13,4 @@
 
 ### Git
 - [Check Merged/Un-Merged Branch in Current Branch](git/merged-branch/)
+- [How to swich between two branches](git/switch-branches/)
