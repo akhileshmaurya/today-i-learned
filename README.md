@@ -5,6 +5,8 @@
 
 - [Bash](#bash)
 - [Git](#git)
+- [Python](#python)
+- [Elastic-Search](#elastic-search)
 
 ### Bash
 - [Execute linux command on remote server](bash/remotecommand/)
@@ -14,3 +16,7 @@
 ### Git
 - [Check Merged/Un-Merged Branch in Current Branch](git/merged-branch/)
 - [How to swich between two branches](git/switch-branches/)
+
+### python
+
+### elastic-search
