@@ -6,7 +6,6 @@
 - [Bash](#bash)
 - [Git](#git)
 - [Python](#python)
-- [Elastic-Search](#elastic-search)
 
 ### Bash
 - [Execute linux command on remote server](bash/remotecommand/)
@@ -19,4 +18,3 @@
 
 ### python
 
-### elastic-search
