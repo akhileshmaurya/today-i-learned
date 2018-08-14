@@ -1,5 +1,5 @@
 # today-i-learned
-> I have created this repo for maintaining my day to day learning
+> This Repo is for learning log on day by day.
 
 ### Content
 
