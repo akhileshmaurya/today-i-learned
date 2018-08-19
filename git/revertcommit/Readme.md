@@ -1,3 +1,3 @@
-Want to revert last commit in local 
+Revert last local commit 
 
 ``` git revert --hard HEAD~1```
