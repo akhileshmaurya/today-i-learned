@@ -1,4 +1,4 @@
-# today-i-learned
+# Today-I-Learned
 > This Repo is for learning log on day by day.
 
 ### Content
