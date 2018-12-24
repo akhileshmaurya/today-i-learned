@@ -6,6 +6,7 @@
 - [Bash](#bash)
 - [Git](#git)
 - [Python](#python)
+- [Go](#go)
 
 ### Bash
 - [Execute linux command on remote server](bash/remotecommand/)
@@ -17,5 +18,7 @@
 - [How to swich between two branches](git/switch-branches/)
 - [Revert Last local commit](git/revertcommit)
 
-### python
+### Python
+
+### Go
 
