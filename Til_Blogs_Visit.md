@@ -1,0 +1,1 @@
+- [Query Billions Of Rows by Postgres](https://www.alibabacloud.com/blog/millisecond-marketing-with-trillions-of-user-tags-using-postgresql_370808) : Alibaba have leverages there cloud for Querying Billions of rows on real time with millisecond
