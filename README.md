@@ -7,6 +7,8 @@
 - [Git](#git)
 - [Python](#python)
 - [Go](#go)
+- [Java](#java)
+- [Scala](#scala)
 
 ### Bash
 - [Execute linux command on remote server](bash/remotecommand/)
